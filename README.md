@@ -69,7 +69,7 @@ Business objective of analysis is to identify and highlight risky loan applicati
   - Add derived columns issue_year and  issue_month from issue_d for EDA analysis
 
 ## Conclusion
-Please refer to LendingClub-CaseStudy.ipynb for detailed analysis. As per analysis, following Consumer and Loan attributes are factors for loan default. 
+Please refer to file with extention .ipynb for detailed analysis. As per analysis, following Consumer and Loan attributes are factors for loan default. 
 - Interest Rate
 - Grade/Sub Grade (Both are correlated so either of them can be considered)
 - Term (Loan term)
